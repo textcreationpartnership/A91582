@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Queen of England's prophecie concerning Prince Charles. And her letter, advice, and proposals, to His Highnesse, touching the three crowns of England, Scotland, and Ireland. With a narrative of his proceedings; and the declaration of the Low-Countrey souldiers. Also, a prophecy delivered to Lieut. Generall Crumwell, by a Yorkshire gentlewoman, and the particulars thereof, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91582</idno>
+            <idno type="STC">Wing Q154</idno>
+            <idno type="STC">Thomason E552_13</idno>
+            <idno type="STC">ESTC R33747</idno>
+            <idno type="EEBO-CITATION">99872360</idno>
+            <idno type="PROQUEST">99872360</idno>
+            <idno type="VID">165062</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91582)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165062)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E552[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Queen of England's prophecie concerning Prince Charles. And her letter, advice, and proposals, to His Highnesse, touching the three crowns of England, Scotland, and Ireland. With a narrative of his proceedings; and the declaration of the Low-Countrey souldiers. Also, a prophecy delivered to Lieut. Generall Crumwell, by a Yorkshire gentlewoman, and the particulars thereof, &amp;c.</title>
+                  <author>Henrietta Maria, Queen, consort of Charles I, King of England, 1609-1669.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W. and are to be sold at the Royall Exchange in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>April 30. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title-page woodcut.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165062:1" rendition="simple:additions"/>
+            <p>The Queen of <hi>England's</hi> PROPHECIE <hi>CONCERNING</hi> Prince Charles.</p>
+            <p>
+               <hi>AND</hi> Her Letter, Advice, and Propoſals, to His Highneſſe, touch<g ref="char:EOLhyphen"/>ing the three Crowns of <hi>England, Scotland,</hi> and <hi>Ireland.</hi> With a Narrative of his proceedings; and the Declaration of the Low-Countrey Souldiers.</p>
+            <p>Alſo, a Prophecy delivered to Lieut. Generall <hi>Crumwell,</hi> by a Yorkſhire Gentlewoman, and the particulars thereof, &amp;c.</p>
+            <p>
+               <hi>London</hi> Printed for <hi>R. W.</hi> and are to be ſold at the Royall Exchange in Cornhill, <hi>Aprill</hi> 30. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165062:2"/>
+            <pb n="1" facs="tcp:165062:2"/>
+            <head>The Queens PROPHECY Concerning Prince CHARLES <hi>AND</hi> The three Crowns of <hi>England, Scotland,</hi> and <hi>Ireland;</hi> With Her Letter, Advice, and Propoſals, to His Highneſſe at the <hi>Hague</hi> in <hi>Holland.</hi>
+            </head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Honoured Sir.</salute>
+                  </opener>
+                  <p>THe Queen of <hi>England</hi> is much perplexed and ſore troubled in mind, the Fountain and Riſe whereof, taking its firſt derivation from the preſent ſtreams or head of the Royal Off-ſpring at the <hi>Hague;</hi> for having ſent a Letter to her Sonne Prince
+<pb n="2" facs="tcp:165062:3"/>
+                     <hi>Charles,</hi> to adviſe him to a Treaty with her Majeſtys and to meet her at <hi>Amians</hi> in <hi>France,</hi> but hearing that his affections had taken Center another way, and that he could not meet her there, ſhe reſolved not to make any further addreſſe unto him, but returned backe to <hi>Paris,</hi> condoling much the loſſe of her late endeared Soveraign, and the preſent proceedings of the Prince, in reference to the work in hand touching his reſtau<g ref="char:EOLhyphen"/>ration: And after ſome few dayes ſpent in ſerious meditations watering her Princely bed with teares of ſorrow, ſhe deſired a conſerence with Mr. <hi>Henry Jer<g ref="char:EOLhyphen"/>min,</hi> at which ſhe declared, That ſhe had received ſeve<g ref="char:EOLhyphen"/>rall Diciate in a Dream, and that many things were revealed to her thereby, by Apparitions and Viſions, <hi>to wit;</hi>
+                  </p>
+                  <p>Firſt, that if her Son Prince <hi>Charles</hi> did any wayes alienate his affections from going to <hi>Ireland,</hi> and caſt himſelf upon the Kingdom of Scotland, He was a loſt Prince, and that they would ſerve him as they had done his Father, to ſell him for a ſum of money, and ſo deprive him of all Earthly felicity, which might a<g ref="char:EOLhyphen"/>bundantly flow from his three Crownes and King<g ref="char:EOLhyphen"/>domes.</p>
+                  <p>Secondly, That if his vigilancy were not perſpicu<g ref="char:EOLhyphen"/>ous to thoſe in power, in playing of his Game at Sea, that his Deſigne would be ſoone fruſtrated, and all hopes of reſtauration wholly expiated, &amp;c. Having dictated unto him theſe propheticall expreſſions, Her Majeſty deſired, that they might be forthwith com<g ref="char:EOLhyphen"/>municated unto his Highneſſe, which was aſſerted to, and a meſſenger immediatly diſpatched from thence to the <hi>Hague:</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <hi>Leyden</hi>
+                        <date>
+                           <hi>26. Aprill, 1649.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb facs="tcp:165062:3"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>Another new Proyhfie.</head>
+                  <p>A Yorkſhire Gentlewoman coming out of <hi>Cleve<g ref="char:EOLhyphen"/>land</hi> to preſent ſome things to the Houſe of Com<g ref="char:EOLhyphen"/>mons, delivered a paper to Lieut, Gen. <hi>Crumwell,</hi> con<g ref="char:EOLhyphen"/>taining matters which ſhe faith ſhe had in command from God in a Viſion, <hi>viz.</hi> 1 That the Parliament re<g ref="char:EOLhyphen"/>form the Clergy, &amp; only ſettle ſuch Miniſters as pro<g ref="char:EOLhyphen"/>mote holineſſe and the glory of God. 2 To make the Laws of the Land plain and juſt, grounded upon the Word of God. 3 To make ſpeedy and effectuall pro<g ref="char:EOLhyphen"/>viſion for the poor. 4 That differences be compoſed at home, before the breaking out of further diſtractions abroad. Theſe things ſhe ſaith that ſhe being as dead for a time) were revealed to her by God, ſhe beholding the glory of Heaven and the Almighty Jehovah.</p>
+                  <p>Sir, Our dependance here is, what his gracious Maje<g ref="char:EOLhyphen"/>ſty will do, all deſire his comming hither, but the pro<g ref="char:EOLhyphen"/>feſſed downright Royaliſts would have him come with a force for there inſtituting him in his Right; the other party, ſuch as reall for Presbytery, would alſo have him come with a new heart. Wee hear that the vulgar ſort of people do cry him up exceedingly; and ſay they muſt and will have a King though it coſt them never ſo much: here are dayly riſings in ſeverall parts of the Country, the Marqueſſe of <hi>Huntleys</hi> Son is again in arms with 2000. Gourdons to revenge his Fathers death, they have declared for <hi>Charles</hi> the ſe<g ref="char:EOLhyphen"/>cond, and have ſet forth their Invitation for all perſons to come in to their aſſiſtance. Col.<hi>Car,</hi> and divers o<g ref="char:EOLhyphen"/>ther Engliſh Officers, are likewſe very active in rai<g ref="char:EOLhyphen"/>ſing or Forces, and have ſent Letters of invitation into <hi>Northumberland, Cumberland,</hi> and <hi>Wer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>merlund,</hi> for o<g ref="char:EOLhyphen"/>thers to come to them, promiſing great matter of pre<g ref="char:EOLhyphen"/>ferment, but it is more then they are able to performe, for the well affected party are both vigilant &amp; active in ſuppreſſing of them.</p>
+                  <closer>
+                     <dateline>
+                        <hi>BerWick</hi>
+                        <date>
+                           <hi>24 Arpil, 1649.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb facs="tcp:165062:4"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>THe Prince of <hi>Wales</hi> hath had ſeverall confe<g ref="char:EOLhyphen"/>rences and diſputations with his grand Coun<g ref="char:EOLhyphen"/>cellours at the <hi>Hague;</hi> they preſſe hard for his going into <hi>Ireland,</hi> but he ſeemes very unwilling to give his aſſent thereto, and hath delivered ſeveral Rea<g ref="char:EOLhyphen"/>ſons at the Councell table (in the preſence of the Lord <hi>Cottington,</hi> and others) wherein he remonſtrates the apparent danger that may befall his Royall perſon, if once he ſhould ſet footing in that Kingdom, by reaſon of the falling off of his Subjects of <hi>Scotland,</hi> who are determined to act upon new principles, if once he ap<g ref="char:EOLhyphen"/>peares in the head of that Army.</p>
+                  <p>And therefore, he was reſolved to make that place his chiefeſt Center for ſome certain time, having aliena<g ref="char:EOLhyphen"/>ted his affections either from <hi>England, Scotland,</hi> or <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> till he ſaw an opportunity, for the playing of his Game with more facility and ſurety.</p>
+                  <p>
+                     <hi>Montroſse</hi> (during this reſpire of time) ſeriouſly minding the diſſenting expreſſions of the Prince, aroſe from the table, and with an auſteer countenance, ſaid, <hi>That if his Majeſty</hi> (for ſo is he called at the Court) <hi>would not hearken to the good Councell now attending his Royall perſon, in all probability, he might become the most deplorable Prince in Chriſtendome, and in ſtead of the en<g ref="char:EOLhyphen"/>joyment of the prerogative and felicity of three Kingdoms be forced to contain himſelfe within the bounds and li<g ref="char:EOLhyphen"/>mits of the Territories of one Naiton.</hi>
+                  </p>
+                  <p>The Prince replyed, That one Crowne firm<g ref="char:EOLhyphen"/>ly and univerſally ſet, upon his head, might produce greater tranquility and felicity to himſelf, and the reſt of the Royall Off-ſpring, than three that ſhould ſtand in a tottering and unſtable motion, &amp;c: So that in all probability it is conjectured, that hee will decline his
+<pb n="5" facs="tcp:165062:4"/>Center both from <hi>England</hi> and <hi>Ireland,</hi> and wholly caſt himſelf upon the Kingdom of <hi>Scotland;</hi> for hee hath declared, That he will caſt off the Earl of <hi>Mon<g ref="char:EOLhyphen"/>troſse,</hi> and all thoſe who are conceived Enemies to peace and truth, and apply himſelf to thoſe particu<g ref="char:EOLhyphen"/>lars propounded from the Eſtates of Scotland, which are conceived to be the voyce of the people, and the advice of that Kingdom.</p>
+                  <p>He ſeemes to make little preparation againſt <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> in reference to Warlike affaires, rather taking his late Fathers advice and admonition, to gain it by the way of reconciliation and treaty, then by the power of the bloud-thirſty Sword.</p>
+                  <p>But yet notwithſtanding he is much preſſed to the contrary, and the two Extraodinary Ambaſſadours from the King of <hi>Denmark,</hi> and the Queen of <hi>Sweth<g ref="char:EOLhyphen"/>land,</hi> hath ſaluted his Highneſs, and at a conference con<g ref="char:EOLhyphen"/>doled the death of his late Father, intimating that they wonld uſe their utmoſt endeavours for the reinveſting of him in his juſt Rights and Dignities, and reſtoring of him to his Royall prerogative and Birth right; and to that end, have delivered their Repreſentation and Invi<g ref="char:EOLhyphen"/>tation to the moſt high and mighty Lords, the States of the United Provinces, to joyne with them to aſſiſt, the ſaid King to obtain his Birthright; but it is ſaid they have declared their reſolution, to be offenſive nor defenſive againſt either parties: So that it is verily believed, that the States will act as Neutraliſts, and nei<g ref="char:EOLhyphen"/>ther meddlewith one ſide, nor the other. For they have declared, that nothing ſhall be wanting in them for the preſervation of a right underſtanding with the par<g ref="char:EOLhyphen"/>liament of <hi>England,</hi> and that they will endeavonr the union and peace thereof againſt all oppoſition what<g ref="char:EOLhyphen"/>ſoever.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Brill</hi>
+                        <date>20. <hi>Aprill,</hi> 1649.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="6" facs="tcp:165062:5"/>
+            <p>
+               <hi>Postſcript,</hi> Sir, Since the writing of my laſt, the two extraordinary Embaſſadours from Sweden and Denmark have had audience with the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> King of Scotland, repreſenting the perſonall appearance of their Maſters, and promiſing him aſſiſtance for the ob<g ref="char:EOLhyphen"/>taining of his Birthright. But truly we cannot diſcerne any viſible Force as yet in Armes, and the Princes Propoſitions to the old Souldiers of the United Pro<g ref="char:EOLhyphen"/>vinces are much ſlighted and rejected, having unani<g ref="char:EOLhyphen"/>mouſly declared, that they will not any wayes inter<g ref="char:EOLhyphen"/>meddle with the affairs of <hi>England,</hi> in relation to the erecting and ſetting up of Monarchy or any other Go<g ref="char:EOLhyphen"/>vernment whatſoever. Here is a great demur hapned, at Court, by reaſon of the Parliaments Navy putting forth to Sea, which cauſeth many who at firſt ſeemed very forward to promote the Royall Deſign, to deſert any further Engagement, taking a preſident by the late headleſſe members, who acted againſt the Common, wealth of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>Hague</hi> 25. <hi>Aprill</hi> 1649.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
